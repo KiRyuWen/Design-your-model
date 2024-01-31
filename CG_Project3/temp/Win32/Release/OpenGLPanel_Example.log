@@ -1,0 +1,149 @@
+﻿  MyForm.cpp
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(197,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(220,65): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(229,130): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(233,54): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(236,87): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(126,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(171,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(178,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(222,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(227,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(697,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(703,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(708,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(714,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(834,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(865,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1062,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1069,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1083,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1087,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1268,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1272,36): warning C4244: '=': conversion from 'double' to 'Scalar', possible loss of data
+          with
+          [
+              Scalar=float
+          ]
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1273,36): warning C4244: '=': conversion from 'double' to 'Scalar', possible loss of data
+          with
+          [
+              Scalar=float
+          ]
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1392,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1408,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1435,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1436,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\Paintbrush.h(28): warning C4715: 'Paintbrush::AddPaintbrushSize': not all control paths return a value
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{16}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{12}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{8}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(259): warning C4793: 'Eigen::internal::pset1<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(258): warning C4793: 'Eigen::internal::pset1<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(367): warning C4793: 'Eigen::internal::pdiv<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(347): warning C4793: 'Eigen::internal::pmul<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(791): warning C4793: 'Eigen::internal::pstore<int,Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(790): warning C4793: 'Eigen::internal::pstore<double,__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1021): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1021): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1022): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(883): warning C4793: 'Eigen::internal::pfirst<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(883): warning C4793: 'Eigen::internal::pfirst<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  OpenGLPanel_Example.vcxproj -> C:\Users\User\OneDrive\桌面\P3\尤\cg_project3_2\CG_Project3\Release-Win32\OpenGLPanel_Example.exe
